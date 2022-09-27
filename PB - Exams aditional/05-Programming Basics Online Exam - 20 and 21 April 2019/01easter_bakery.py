@@ -1,0 +1,1 @@
+flourPrice=float(input())
